@@ -138,5 +138,5 @@
   background-color: #E8F3EC }
 .button.button-crypto:hover,
 .button.button-crypto:hover:before {
-    content: 'You can visit this website in a decentralized way in IPFS.';
+    content: 'My decentralized website in IPFS network.';
     white-space: initial; }
