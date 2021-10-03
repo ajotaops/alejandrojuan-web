@@ -134,8 +134,8 @@
 
 /* Crypto */
 .button.button-crypto {
-  color: #449294;
-  background-color: #E8F3EC }
+  color: #FFFFFF;
+  background-color: #449294 }
 .button.button-crypto:hover,
 .button.button-crypto:hover:before {
     content: 'My decentralized website in IPFS network.';
