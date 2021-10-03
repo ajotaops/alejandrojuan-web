@@ -136,7 +136,7 @@
 .button.button-crypto {
   color: #000000;
   background-color: #E8F3EC }
-.button.button-mail:hover,
-.button.button-mail:hover:before {
+.button.button-crypto:hover,
+.button.button-crypto:hover:before {
     content: 'You can visit this website in a decentralized way in IPFS.';
     white-space: initial; }
